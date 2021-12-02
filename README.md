@@ -14,6 +14,6 @@ Full Stack Developer based in Edmonton Alberta
 </div>
 
 <div align="center">
-  <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaruliah)](https://github.com/anuraghazra/github-readme-stats)"></a>
+  <a href="(https://github-readme-stats.vercel.app/api?username=jaruliah)](https://github.com/anuraghazra/github-readme-stats)"></a>
 </div>
 
