@@ -8,8 +8,6 @@ Full Stack Developer based in Edmonton Alberta
 </p>
 
 <div align="center">
-  <ul>
-    <li><a href="https://jaruliah.me/"></a>Portfolio</li>
-  </ul>
+  <a href="https://jaruliah.me/">Portfolio</a>
 </p>
 
