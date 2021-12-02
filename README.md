@@ -15,6 +15,11 @@ Full Stack Developer based in Edmonton Alberta
 </div>
 
 <div align="center">
+  <a><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
+</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=dark" />
   </a>
