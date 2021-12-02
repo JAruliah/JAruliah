@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi there I'm <a href="https://jaruliah.me/" target="_blank">Jonathan Aruliah</a> 👋</h1>
+  <h1 align="center">Hi there I'm <a href="https://jaruliah.me/">Jonathan Aruliah</a> 👋</h1>
 
 
 <h3 align="center">
