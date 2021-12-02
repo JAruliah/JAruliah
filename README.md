@@ -12,9 +12,12 @@ Full Stack Developer based in Edmonton Alberta
   <a href="https://www.linkedin.com/in/jonathan-aruliah-1b98611ba/">LinkedIn / </a>
     <a href="mailto:jonathanaruliah@gmail.com">Email</a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+</div>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah" />
-</a>
+  </a>
 </div>
 
 
