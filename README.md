@@ -1,6 +1,6 @@
 
 <p align="center">
-  Hi there I'm <a href="https://jaruliah.me/">Jonathan Aruliah</a> 👋
+  <h1>Hi there I'm <a href="https://jaruliah.me/">Jonathan Aruliah</a> 👋</h1>
 </p>
 
 <p align="center">
