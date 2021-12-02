@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there I'm [Jonathan Aruliah](https://jaruliah.me/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaruliah)](https://github.com/anuraghazra/github-readme-stats)
+Full Stack Developer based in Edmonton Alberta
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaruliah)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[Portfolio/ ](https://jaruliah.me/) [LinkedIn](https://www.linkedin.com/in/jonathan-aruliah-1b98611ba/) [Email](mailto:jonathanaruliah@gmail.com[GitHub]%20Source%20Han%20Sans)
