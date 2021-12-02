@@ -16,9 +16,10 @@ Full Stack Developer based in Edmonton Alberta
 
 <div align="center">
   <a><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
-    <a><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></a>
-      <a><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
-        <a><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></a>
+  <a><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></a>
+  <a><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
+  <a><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></a>
+  <a><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></a>
 
 </div>
 
