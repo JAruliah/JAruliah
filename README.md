@@ -26,7 +26,7 @@ Full Stack Developer based in Edmonton Alberta
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=dark&card_width=100" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=dark&card_width=50" />
   </a>
 </div>
 
