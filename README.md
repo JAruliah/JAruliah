@@ -2,9 +2,9 @@
   <h1 align="center">Hi there I'm <a href="https://jaruliah.me/">Jonathan Aruliah</a> 👋</h1>
 
 
-<p align="center">
+<h3 align="center">
 Full Stack Developer based in Edmonton Alberta
-</p>
+</h3>
 
 <div align="center">
   <a href="https://jaruliah.me/">Portfolio / </a>
