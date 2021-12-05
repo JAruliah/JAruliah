@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-Full Stack Developer based in Edmonton, Alberta
+Full Stack Web Developer based in Edmonton, Alberta
 </h3>
 
 <div align="center">
