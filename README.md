@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-Full Stack Web Developer based in Edmonton, Alberta
+Software Developer at BIS Safety Software
 </h3>
 
 <div align="center">
