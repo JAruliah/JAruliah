@@ -2,9 +2,9 @@
   <h1 align="center">Hi there! I'm <a href="https://jaruliah.me/">Jonathan Aruliah</a> 👋</h1>
 
 
-<h4 align="center">
-  Software Developer at BIS Safety Software
-</h4>
+<h3 align="center">
+  Software Developer @ <strong>BIS Safety Software</strong>
+</h3>
 
 <div align="center">
   <a href="https://jaruliah.me/">Portfolio / </a>
