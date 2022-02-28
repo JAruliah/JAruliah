@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-  Software Developer at <strong>BIS Safety Software</strong>
+  Software Developer at BIS Safety Software
 </h3>
 
 <div align="center">
