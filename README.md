@@ -25,7 +25,13 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=tokyonight&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=tokyonight&show_icons=true&count_private=true" />
+  </a>
+</div>
+
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JAruliah&theme=tokyonight"/>
   </a>
 </div>
 
