@@ -24,8 +24,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats?theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=dark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaruliah&theme=tokyonight" />
   </a>
 </div>
 
